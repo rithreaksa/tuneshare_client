@@ -2,13 +2,15 @@
 
 ## Description
 
-This is a mobile application where the user can post their favorite music. We are using the Spotify API to provide music data. To authenticate users on this app, we are using OAuth. Which means that in order to use the app, you have to have an active Spotify account. While on the app you can browse all posts, create your own, comment or like on the post or take a look at your profile to see a list of the songs you have previously posted. In the Post index you will see the title of the song, the artist, the album cover and you also have the ability to listen to a preview of the song for 30 seconds.
+This is a mobile application where users can post their favorite music. We use Spotify API to provide music data. Users can search for song(s) that they like to create a post and to share it to their friends. Additionally, users can also browse all posts, leave comments and likes on the posts. 
+
+Each post consits of the title of the song, the artist, the albumn cover. Furthermore, users also have the ability to listen to a preview of the song for 30 seconds.
 
 ## The code
 
 ### Installation
 
-1. Fork and clone [Tune Share Client](https://github.com/CraftAcademy/tuneshare_client) to your local workspace.
+1. Fork and clone [Tune Share Client](https://github.com/rithreaksa/tuneshare_client) to your local workspace.
 
 2. Install the project dependencies.
 
@@ -34,7 +36,7 @@ yarn web
 
 ### The API can be found here:
 
-- [Tune Share API](https://github.com/CraftAcademy/tuneshare_api)
+- [Tune Share API](https://github.com/rithreaksa/tuneshare_api)
 
 ## Dependencies
 
@@ -74,15 +76,14 @@ yarn web
 ## Acknowledgements
 
 - [Craft Academy](https://www.craftacademy.se/) coaches: [Thomas Ochman](https://github.com/tochman) and [Emma-Maria Thalen](https://github.com/emtalen)
-
-## License
-
-MIT License
-
 ## Authors
 
+- [Rithreaksa Khourn](https://github.com/rithreaksa)
 - [Sanne Lindholm](https://github.com/salindholm)
 - [Kyungin Na](https://github.com/KyunginNa)
 - [Viktor Karlsson](https://github.com/ViktorHek)
 - [William Höök-Specker](https://github.com/sealfury)
-- [Rithreaksa Khourn](https://github.com/rithreaksa)
+
+## License
+
+MIT License
